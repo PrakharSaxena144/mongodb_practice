@@ -18,12 +18,19 @@ The purpose of this repository is to practice and understand:
 ## 📂 Project Structure
 
 mongodb_practice/
+
 │
+
 ├── 01_setup.mongodb.js      # Database and collection setup
+
 ├── 02_reading.mongodb.js    # Read operations
+
 ├── 03_update.mongodb.js     # Update operations
+
 ├── 04_delete.mongodb.js     # Delete operations
+
 ├── playground-1.mongodb.js  # Experimental queries
+
 └── README.md
 
 
@@ -130,4 +137,5 @@ B.Tech AI Student | MongoDB Learner
 * Add Node.js + MongoDB integration
 * Add MongoDB Compass screenshots
 t say the word 👍
+
 
